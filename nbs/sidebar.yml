@@ -1,0 +1,8 @@
+website:
+  sidebar:
+    contents:
+      - index.ipynb
+      - 00_core.ipynb
+      - 01_LearningToGrow.ipynb
+      - 02_WhatPersists,Exists.ipynb
+      - 03_LearningToRegenerate.ipynb
