@@ -24,14 +24,14 @@ version).
 In this experiment we train the automato to generate from an original
 state (seed) to its final form.
 
-![Alt Text](../images/grow.gif)
+![Alt Text](images/grow.gif)
 
 ### 2. What Persists, Exists
 
 In this experiment we train the automato to maintain its final form as
 time passes.
 
-![Alt Text](../images/exist.gif)
+![Alt Text](images/exist.gif)
 
 ### 3. Learning to Regenerate
 
@@ -40,8 +40,8 @@ types of corruption that may be applied to it.
 
 <div style="display: flex; justify-content: space-between;">
 
-<img src="../images/regeneration1.gif" alt="First GIF" style="width: 25%;">
-<img src="../images/regeneration2.gif" alt="Second GIF" style="width: 25%;">
+<img src="images/regeneration1.gif" alt="First GIF" style="width: 25%;">
+<img src="images/regeneration2.gif" alt="Second GIF" style="width: 25%;">
 
 </div>
 
