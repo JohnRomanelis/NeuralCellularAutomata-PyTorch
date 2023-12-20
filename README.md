@@ -8,9 +8,7 @@ To run the code:
 
 1. Clone the repo
 
-2. CD inside the main directory and run
-
-```pip install -e```.
+2. CD inside the main directory and run: `pip install -e`
 
 This project is based on [nbdev](https://nbdev.fast.ai/), so please
 check their documentation for further information.
