@@ -40,8 +40,8 @@ types of corruption that may be applied to it.
 
 <div style="display: flex; justify-content: space-between;">
 
-<img src="images/regeneration1.gif" alt="First GIF" style="width: 25%;">
-<img src="images/regeneration2.gif" alt="Second GIF" style="width: 25%;">
+<img src="images/regeneration1.gif" alt="First GIF" style="width: 40%;">
+<img src="images/regeneration2.gif" alt="Second GIF" style="width: 40%;">
 
 </div>
 
